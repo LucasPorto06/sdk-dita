@@ -24,7 +24,7 @@ No `build.gradle` do módulo (app):
 
 ```groovy
 dependencies {
-    implementation 'com.dita:sdk-dita:1.0.2'
+    implementation 'com.dita:sdk-dita:1.0.3'
 }
 ```
 
