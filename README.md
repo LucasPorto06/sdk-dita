@@ -13,7 +13,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven { url 'https://raw.githubusercontent.com/desenveva/dita-audit-sdk/main' }
+        maven { url 'https://raw.githubusercontent.com/LucasPorto06/dita-audit-sdk/main' }
     }
 }
 ```
